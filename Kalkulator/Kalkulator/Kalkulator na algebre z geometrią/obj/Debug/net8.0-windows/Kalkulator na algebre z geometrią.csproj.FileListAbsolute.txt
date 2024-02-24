@@ -1,0 +1,32 @@
+C:\Users\48784\Desktop\Indywidualne_zad_ Programistyczne_Adam_Mazurek_77704_B3\Kalkulator na algebre z geometrią\bin\Debug\net8.0-windows\Kalkulator na algebre z geometrią.exe
+C:\Users\48784\Desktop\Indywidualne_zad_ Programistyczne_Adam_Mazurek_77704_B3\Kalkulator na algebre z geometrią\bin\Debug\net8.0-windows\Kalkulator na algebre z geometrią.deps.json
+C:\Users\48784\Desktop\Indywidualne_zad_ Programistyczne_Adam_Mazurek_77704_B3\Kalkulator na algebre z geometrią\bin\Debug\net8.0-windows\Kalkulator na algebre z geometrią.runtimeconfig.json
+C:\Users\48784\Desktop\Indywidualne_zad_ Programistyczne_Adam_Mazurek_77704_B3\Kalkulator na algebre z geometrią\bin\Debug\net8.0-windows\Kalkulator na algebre z geometrią.dll
+C:\Users\48784\Desktop\Indywidualne_zad_ Programistyczne_Adam_Mazurek_77704_B3\Kalkulator na algebre z geometrią\bin\Debug\net8.0-windows\Kalkulator na algebre z geometrią.pdb
+C:\Users\48784\Desktop\Indywidualne_zad_ Programistyczne_Adam_Mazurek_77704_B3\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\Kalkulator_na_algebre_z_geometrią.Form1.resources
+C:\Users\48784\Desktop\Indywidualne_zad_ Programistyczne_Adam_Mazurek_77704_B3\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\Kalkulator na algebre z geometrią.csproj.GenerateResource.cache
+C:\Users\48784\Desktop\Indywidualne_zad_ Programistyczne_Adam_Mazurek_77704_B3\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\Kalkulator na algebre z geometrią.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48784\Desktop\Indywidualne_zad_ Programistyczne_Adam_Mazurek_77704_B3\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\Kalkulator na algebre z geometrią.AssemblyInfoInputs.cache
+C:\Users\48784\Desktop\Indywidualne_zad_ Programistyczne_Adam_Mazurek_77704_B3\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\Kalkulator na algebre z geometrią.AssemblyInfo.cs
+C:\Users\48784\Desktop\Indywidualne_zad_ Programistyczne_Adam_Mazurek_77704_B3\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\Kalkulator na algebre z geometrią.csproj.CoreCompileInputs.cache
+C:\Users\48784\Desktop\Indywidualne_zad_ Programistyczne_Adam_Mazurek_77704_B3\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\Kalkulator na algebre z geometrią.dll
+C:\Users\48784\Desktop\Indywidualne_zad_ Programistyczne_Adam_Mazurek_77704_B3\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\refint\Kalkulator na algebre z geometrią.dll
+C:\Users\48784\Desktop\Indywidualne_zad_ Programistyczne_Adam_Mazurek_77704_B3\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\Kalkulator na algebre z geometrią.pdb
+C:\Users\48784\Desktop\Indywidualne_zad_ Programistyczne_Adam_Mazurek_77704_B3\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\Kalkulator na algebre z geometrią.genruntimeconfig.cache
+C:\Users\48784\Desktop\Indywidualne_zad_ Programistyczne_Adam_Mazurek_77704_B3\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\ref\Kalkulator na algebre z geometrią.dll
+C:\Users\48784\Desktop\Kalkulator\Kalkulator na algebre z geometrią\bin\Debug\net8.0-windows\Kalkulator na algebre z geometrią.exe
+C:\Users\48784\Desktop\Kalkulator\Kalkulator na algebre z geometrią\bin\Debug\net8.0-windows\Kalkulator na algebre z geometrią.deps.json
+C:\Users\48784\Desktop\Kalkulator\Kalkulator na algebre z geometrią\bin\Debug\net8.0-windows\Kalkulator na algebre z geometrią.runtimeconfig.json
+C:\Users\48784\Desktop\Kalkulator\Kalkulator na algebre z geometrią\bin\Debug\net8.0-windows\Kalkulator na algebre z geometrią.dll
+C:\Users\48784\Desktop\Kalkulator\Kalkulator na algebre z geometrią\bin\Debug\net8.0-windows\Kalkulator na algebre z geometrią.pdb
+C:\Users\48784\Desktop\Kalkulator\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\Kalkulator_na_algebre_z_geometrią.Form1.resources
+C:\Users\48784\Desktop\Kalkulator\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\Kalkulator na algebre z geometrią.csproj.GenerateResource.cache
+C:\Users\48784\Desktop\Kalkulator\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\Kalkulator na algebre z geometrią.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48784\Desktop\Kalkulator\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\Kalkulator na algebre z geometrią.AssemblyInfoInputs.cache
+C:\Users\48784\Desktop\Kalkulator\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\Kalkulator na algebre z geometrią.AssemblyInfo.cs
+C:\Users\48784\Desktop\Kalkulator\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\Kalkulator na algebre z geometrią.csproj.CoreCompileInputs.cache
+C:\Users\48784\Desktop\Kalkulator\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\Kalkulator na algebre z geometrią.dll
+C:\Users\48784\Desktop\Kalkulator\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\refint\Kalkulator na algebre z geometrią.dll
+C:\Users\48784\Desktop\Kalkulator\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\Kalkulator na algebre z geometrią.pdb
+C:\Users\48784\Desktop\Kalkulator\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\Kalkulator na algebre z geometrią.genruntimeconfig.cache
+C:\Users\48784\Desktop\Kalkulator\Kalkulator na algebre z geometrią\obj\Debug\net8.0-windows\ref\Kalkulator na algebre z geometrią.dll
