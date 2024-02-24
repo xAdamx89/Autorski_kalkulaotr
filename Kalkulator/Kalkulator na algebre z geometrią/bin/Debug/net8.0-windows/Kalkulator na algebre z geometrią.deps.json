@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Kalkulator na algebre z geometrią/1.0.0": {
+        "runtime": {
+          "Kalkulator na algebre z geometrią.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kalkulator na algebre z geometrią/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
