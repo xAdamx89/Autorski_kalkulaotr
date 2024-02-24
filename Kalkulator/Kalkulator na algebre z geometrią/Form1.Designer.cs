@@ -42,6 +42,7 @@
             label2 = new Label();
             Wyznacznik = new Label();
             button2 = new Button();
+            label3 = new Label();
             SuspendLayout();
             // 
             // label1
@@ -155,11 +156,22 @@
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Font = new Font("Segoe UI", 10F);
+            label3.Location = new Point(303, 97);
+            label3.Name = "label3";
+            label3.Size = new Size(159, 19);
+            label3.TabIndex = 14;
+            label3.Text = "Brakuje liczb w macierzy!";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(label3);
             Controls.Add(button2);
             Controls.Add(Wyznacznik);
             Controls.Add(label2);
@@ -176,6 +188,7 @@
             Controls.Add(label1);
             Name = "Form1";
             Text = "Kalkulator algebra z geometrią";
+            Shown += Form1_Shown;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -196,5 +209,6 @@
         private Label label2;
         private Label Wyznacznik;
         private Button button2;
+        private Label label3;
     }
 }
