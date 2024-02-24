@@ -1,4 +1,4 @@
-# Autorski_kalkulaotr
+# Autorski_kalkulator
 Mój autorski kalkulator, który pomoże mi przetrwać algebre z geometrią. Napsiany w Visual Studio (C#), wykorzystując Forms applications.
 
 Funkcjonalności kalkulatora:
